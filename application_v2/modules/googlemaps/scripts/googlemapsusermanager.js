@@ -477,6 +477,7 @@ $.widget('nm.googlemapsusermanager', {
 
     testFn:function(){
     	var widget = this;
+        console.log(this);
     	
     }
 
