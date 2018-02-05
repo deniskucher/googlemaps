@@ -473,6 +473,11 @@ $.widget('nm.googlemapsusermanager', {
             )
         };
         selectEl.find('#default-option').attr({'selected':'selected','disabled':'disabled'});
+    },
+
+    testFn:function(){
+    	var widget = this;
+    	
     }
 
 });
